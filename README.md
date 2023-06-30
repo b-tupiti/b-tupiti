@@ -8,6 +8,8 @@ A typical workflow for me would be to design the UI\UX in figma, build out the f
 
 Currently, I am learning react, and I will then start building apps with it so that I can incorporate it with the django Rest Framework.
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
