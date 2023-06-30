@@ -5,7 +5,7 @@ I'm a freelance full-stack developer and a technology enthusiast. I learned how 
 
 Ultimately, the goal for 2023 is to decouple some of my personal django apps; templates to react apps, and urls to endpoints. That sounds like the opposite of monolithic. sweet! May the code be with you.
 
-#
+---
 
 ### 🧰 Languages and Tools
 
