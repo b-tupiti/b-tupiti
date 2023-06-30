@@ -1,5 +1,5 @@
 # Brandon Tupiti
 
-**`Problem Solver`**
+**`Full-stack web developer`**
 
 
