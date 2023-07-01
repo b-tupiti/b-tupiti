@@ -57,7 +57,7 @@
 ---
 
 <details open>
-    <summary><h3>A little more about me</h3></summary>
+    <summary><h4>Brief about me</h4></summary>
     <p>
         I'm a freelance full-stack developer and a technology enthusiast. I learned how to think like a problem-solver from 2016-2019 (software engineering major). Towards the end of 2018, I landed an internship and got introduced to the django web framework. I say semi full-stack, particularly because I have not built an app (I have, just halfsies) with any front-end tech such as React or Vue. I built fullstack apps with the django framework, but as you know, thats kind of old school now. In comes REST APIs for a more decoupled architecture.
 <br/>
@@ -65,34 +65,8 @@ Ultimately, the goal for 2023 is to decouple some of my personal django apps; te
     </p>
 </details>
 
----
 
-<details open> 
-  <summary><h2>🌠 Top Sponsors</h2></summary>
 
-  <table>
-    <tr>
-      <!-- <th>$10+/month</th> -->
-      <th>$5+/month</th>
-    </tr>
-    <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
-  </table>
-
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
-</details>
 
 
 
