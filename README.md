@@ -36,7 +36,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/dawnCoder26)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/dawnCoder26)
 
-#
+---
 
 ### Stats
 
@@ -54,6 +54,15 @@
 </p>
 </details>
 
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  </a>
+</p>
+
+---
+
+### A little more about me
 
 
 
