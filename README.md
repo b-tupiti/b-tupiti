@@ -55,9 +55,7 @@
 </p>
 </details>
 
-### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnCoder26&show_icons=true&theme=gruvbox)
 
 
 
