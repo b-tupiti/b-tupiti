@@ -6,7 +6,7 @@
     I think analysing a problem and crafting a solution for it is an art form on its own. <br/>
     An art form that I grew so passionately about ever since that first 'Hello, World!'<br/>
     <br>
-    <a href="https://www.linkedin.com/in/wervlad">
+    <a href="https://www.linkedin.com/in/brandon-tupiti-75410012b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:tupitibrandon@gmail.com">
