@@ -1,9 +1,10 @@
 <h1 align="">Brandon Tupiti</h1>
 
-**`Semi Full-stack Web Developer | System Administrator`**
+**`Full-stack Web Developer | SysAdmin`**
 <p align="">
     I'm a freelance full-stack developer and a technology enthusiast. <br/>
     I think analysing a problem and crafting a solution for it is an art form on its own. <br/>
+    An art form that I grew so passionately about ever since that first 'Hello, World!'<br/>
     <br>
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
