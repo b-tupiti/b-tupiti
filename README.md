@@ -54,15 +54,17 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
-  </a>
-</p>
-
 ---
 
 ### A little more about me
+
+#
+
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=dawnCoder26&color=blue&style=flat)" />
+  </a>
+</p>
 
 
 
