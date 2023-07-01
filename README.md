@@ -56,8 +56,8 @@
 
 ---
 
-<details open>
-    <summary><h4>Brief about me</h4></summary>
+<details close>
+    <summary><h4>Brief About Me</h4></summary>
     <p>
         I'm a freelance full-stack developer and a technology enthusiast. I learned how to think like a problem-solver from 2016-2019 (software engineering major). Towards the end of 2018, I landed an internship and got introduced to the django web framework. I say semi full-stack, particularly because I have not built an app (I have, just halfsies) with any front-end tech such as React or Vue. I built fullstack apps with the django framework, but as you know, thats kind of old school now. In comes REST APIs for a more decoupled architecture.
 <br/>
