@@ -38,7 +38,9 @@
 
 #
 
-<stats>
+### Stats
+
+<details>
 <p align="">
   <a href="https://github.com/dawnCoder26">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawnCoder26&theme=transparent" />
@@ -50,7 +52,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawnCoder26&theme=transparent" />
   </a>
 </p>
-</stats>
+</details>
 
 
 
