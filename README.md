@@ -2,8 +2,8 @@
 
 **`Semi Full-stack Web Developer | System Administrator`**
 <p align="">
-    Currently learning to walk in ML/DL without falling on my bottom.<br>
-    Open to collaborating on interesting and innovative projects.<br>
+    I'm a freelance full-stack developer and a technology enthusiast. <br/>
+    I think analysing a problem and crafting a solution for it is an art form on its own. <br/>
     <br>
     <a href="https://www.linkedin.com/in/wervlad">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
