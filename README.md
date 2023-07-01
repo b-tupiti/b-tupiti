@@ -39,7 +39,7 @@
 #
 
 <details>
-<p align="center">
+<p align="">
   <a href="https://github.com/dawnCoder26">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawnCoder26&theme=transparent" />
   </a>
