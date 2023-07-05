@@ -59,7 +59,7 @@
 <details close>
     <summary><h4>Brief About Me</h4></summary>
     <p>
-        I graduated with an Information Sciences (Software Engineering Major) in 2019 at Massey University (Auckland, New Zealand). Towards the end of 2018, I landed an internship and got introduced to the django web framework. I am used to building fullstack apps with the django framework, but as you know, thats kind of old school now. In comes REST APIs for a more decoupled architecture.
+        I graduated with an Information Sciences (Software Engineering Major) in 2019 at Massey University (Auckland, New Zealand). Towards the end of 2018, I landed an internship and got introduced to the django web framework. I am used to building fullstack web apps with django, but as you know, that's kinda old school now. In comes REST APIs for a more decoupled architecture.
 <br/>
 Ultimately, the goal for 2023 is to decouple some of my personal django apps; templates to react apps, and urls to endpoints. That sounds like the opposite of monolithic. sweet! May the code be with you.
     </p>
