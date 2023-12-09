@@ -17,22 +17,22 @@
 ---
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dawnCoder26)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/dawnCoder26)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/dawnCoder26)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/dawnCoder26)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dawnCoder26)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/b-tupiti)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/b-tupiti)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/b-tupiti)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/b-tupiti)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/b-tupiti)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/dawnCoder26)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/dawnCoder26)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/dawnCoder26)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/dawnCoder26)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/dawnCoder26)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/b-tupiti)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/b-tupiti)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/b-tupiti)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/b-tupiti)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/b-tupiti)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/dawnCoder26)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/dawnCoder26)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/b-tupiti)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/b-tupiti)
 
 ---
 
@@ -40,28 +40,18 @@
 
 <details>
 <p align="">
-  <a href="https://github.com/dawnCoder26">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawnCoder26&theme=transparent" />
+  <a href="https://github.com/b-tupiti">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b-tupiti&theme=transparent" />
   </a>
   <a href="https://github.com/dawnCoder26">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawnCoder26&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-tupiti&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/dawnCoder26">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawnCoder26&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=b-tupiti&theme=transparent" />
   </a>
 </p>
 </details>
 
----
-
-<details close>
-    <summary><h4>Brief About Me</h4></summary>
-    <p>
-        I graduated with an Information Sciences (Software Engineering Major) in 2019 at Massey University (Auckland, New Zealand). Towards the end of 2018, I landed an internship and got introduced to the django web framework. I am used to building fullstack web apps with django, but as you know, that's kinda old school now. In comes REST APIs for a more decoupled architecture.
-<br/>
-Ultimately, the goal for 2023 is to decouple some of my personal django apps; templates to react apps, and urls to endpoints. That sounds like the opposite of monolithic. sweet! May the code be with you.
-    </p>
-</details>
 
 
 
