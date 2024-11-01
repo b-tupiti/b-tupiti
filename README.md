@@ -19,7 +19,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/b-tupiti)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/b-tupiti)
 
-### Technologies & Frameworks
+### Tech Stack
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/b-tupiti)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/b-tupiti)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/b-tupiti)
