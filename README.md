@@ -2,7 +2,6 @@
 
 **`Full-stack Web Developer | SysAdmin`**
 <p align="">
-    Freelance full-stack developer and a technology enthusiast. <br/>
     <a href="https://www.linkedin.com/in/brandon-tupiti-75410012b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
