@@ -1,6 +1,6 @@
 <h1 align="">Brandon Tupiti</h1>
 
-**`Full-stack Web Developer | SysAdmin`**
+**`Developer | SysAdmin`**
 <p align="">
     <a href="https://www.linkedin.com/in/brandon-tupiti-75410012b/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
